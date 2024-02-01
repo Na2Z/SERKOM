@@ -6,14 +6,7 @@
 
         <div class="mt-16 border-t border-gray-100 pt-8">
             <p class="text-center text-xs/relaxed text-gray-500">
-                © Company 2023. All rights reserved.
-
-                <br />
-
-                Created with
-                <a href="" class="text-gray-700 underline transition hover:text-gray-700/75">Laravel</a>
-                and
-                <a href="" class="text-gray-700 underline transition hover:text-gray-700/75">TailwindCss</a>.
+                By Shahnaz F
             </p>
         </div>
     </div>

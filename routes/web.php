@@ -23,6 +23,6 @@ Route::resource('/beasiswa', BeasiswaController::class);
 
 Route::get('/hasil', function () {
     return view('beasiswa.hasil', [
-        'pendaftaran' => beasiswa::latest()->paginate(10),
+        'pendaftaran' => beasiswa::latest()->paginate(5),
     ]);
 });
